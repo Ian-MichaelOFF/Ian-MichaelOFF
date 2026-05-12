@@ -1,8 +1,8 @@
 ![Ian Banner](https://github.com/Ian-MichaelOFF/Ian-MichaelOFF/blob/main/assets/Naim.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Ian Castellanos!1</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Ian Castellanos!</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<!-- ## 👋 &nbsp;Hey there! I'm Ian Castellanos -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -16,7 +16,7 @@
 for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV0MnE0N3c5ZGxoeTR4d3BrOGVkc3dsMjdnYjhia3V1b2Z4d2JwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -59,10 +59,10 @@ for more details about me. I'm open to feedback and suggestions!
 
 <p align="center">
   <a href="https://github.com/Ian-MichaelOFF">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ian-MichaelOFF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ian-MichaelOFF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Ian-MichaelOFF">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ian-MichaelOFF&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ian-MichaelOFF&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -75,10 +75,13 @@ for more details about me. I'm open to feedback and suggestions!
 
 <p align="center">
 <a href="https://github.com/Ian-MichaelOFF">
-  <img src="https://img.shields.io/badge/MichaelOFF-%23121011.svg?logo=github&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/MichaelOFF-%23121011.svg?logo=github&logoColor=white"/>
 </a>
   <a href="https://www.linkedin.com/in/ian-michael-castellanos-zuniga-9619a437a/">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+  <img height="30em" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=ian37420@gmail.com">
+  <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 </p>
 
